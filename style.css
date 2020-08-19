@@ -1,0 +1,161 @@
+
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color: #40514E;
+
+}
+
+h1{
+    margin: 0;
+    font-family: 'Sacramento', cursive;
+    padding-top: 50px;
+    font-size: 5.625rem;
+    color: #66BFBF;
+    line-height: 2;
+}
+
+h2{
+    color:#66BFBF;
+    font-size: 2.5rem;
+    padding-bottom: 10px;
+}
+
+h3{
+    color:#11999E;
+}
+
+p{
+    line-height: 2;
+}
+
+hr{
+    border: dotted #EAF6F6 6px;
+    width: 5%;
+    margin: 100px auto;
+    border-bottom:none;
+}
+
+.title-text{
+    font-weight: normal;
+}
+
+.top-section{
+    background-color: #E0EBE8;
+}
+
+.mountain{
+    display: block;
+}
+
+.my-name{
+    display: inline;
+}
+
+.top-cloud{
+    position: absolute;
+    top: 50px;
+    right: 150px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left:150px;
+}
+
+.skill-row{
+    width: 50%;
+    margin:100px auto;
+    text-align: left;
+}
+
+.skill-row p{
+    line-height: 2;
+}
+
+.code-img{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.graphic-img{
+    width: 25%;
+    border-radius: 100%;
+    float: right;
+    margin-left: 30px;
+}
+
+.profile-img{
+    width: 25%;
+    border-radius: 100%;
+}
+
+.web-design-desc{
+    /* clear: left; */
+}
+
+.middle-container{
+    margin: 100px 0;
+}
+
+.intro-text{
+    width: 30%;
+    margin: auto;
+}
+
+.contact-msg{
+    width: 40%;
+    margin: 40px auto;
+}
+
+.btn {
+    background: #11CDD4;
+    background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
+    background-image: -moz-linear-gradient(top, #11CDD4, #11999E);
+    background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
+    background-image: -o-linear-gradient(top, #11CDD4, #11999E);
+    background-image: linear-gradient(to bottom, #11CDD4, #11999E);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Merriweather', serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #30E3CB;
+    background-image: -webkit-linear-gradient(top, #30E3CB, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30E3CB, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30E3CB, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30E3CB, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30E3CB, #2bc4ad);
+    text-decoration: none;
+  }
+
+  .bottom-container{
+      background-color: #66BFBF;
+      padding: 50px 20px;
+
+  }
+
+  .footer-link{
+      text-decoration: none;
+      color: #11999E;
+      margin: 10px 20px;
+      font-family:'Merriweather', serif;
+  }
+
+  .footer-link:hover{
+    color: #EAF6F6
+  }
+
+  .copyright-msg{
+      color:#EAF6F6;
+      padding: 20px;
+      font-size: 0.75rem;
+  }
